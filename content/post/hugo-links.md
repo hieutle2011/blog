@@ -14,7 +14,8 @@ I save these for furture reference regards blogging.
 - [Markdown cheat sheet][md1]
 - [Md compact][md2]
 
-- [How to dev.to][howto]
+- [How to build static site dev.to][howto]
+- [How to host on gohugo.io][howtohost]
 
 
 
@@ -22,3 +23,4 @@ I save these for furture reference regards blogging.
 [md1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [md2]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 [howto]: https://dev.to/priteshusadadiya/how-to-create-blog-and-portfolio-with-hugo--from-a-to-z-25jl
+[howtohost]: https://gohugo.io/hosting-and-deployment/hosting-on-github/

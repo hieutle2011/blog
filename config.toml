@@ -1,7 +1,7 @@
 baseurl = "https://hieutle2011.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Hieu Personal Blog"
+title = "Hieu's Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -17,7 +17,7 @@ enableEmoji = true
 [Params]
   homeTitle = "Wonderful Corner" # Set a different text for the header on the home page
   subtitle = "Notes of my everyday life and work"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "images/IMG_1704.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -45,13 +45,11 @@ enableEmoji = true
 
 [Author]
   name = "Hieu Le"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
+  website = "hieutle2011.github.io"
+  email = "hieuletrung102@gmail.com"
   github = "hieutle2011"
   twitter = "username"
   linkedin = "hieutle2011"
-  telegram = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -70,7 +68,7 @@ enableEmoji = true
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
+    name = "Projects"
     weight = 2
 
 [[menu.main]]

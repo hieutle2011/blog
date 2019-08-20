@@ -7,84 +7,83 @@ subtitle: "My latest Curriculum Vitae"
 image: ""
 tags: []
 ---
-# Profile
-
----
-# Personal Information
-
-- Full name:
-- DoB
-- Email:
+# Hieu Trung Le
+**KBTG, Thailand**  
+P: +66910107582 (Thailand)  
+P: +84982051922 (Vietnam)  
+hieuletrung102@gmail.com
 
 ---
 # Working experience
 
-- ![KBTG][kbtg-logo]
-- TMA
-- MSIG
-- VIB
-- Chailease
+#### KBTG, current
+*Software Developer*  
+
+* Build NodeJs api for client app.
+* Build front end web for operational management with ReactJs.
+* Build EFK stack running in docker to monitor network.
+* Build pipeline and Ansible playbook to deploy api on Jenkins server.
+* Build a python library for running BDD test with Cucumber.
+
+#### TMA, 2018
+*Software Developer*  
+
+* Research on blockchain network (Hyperledger) and its application.
+* Build used case demos and prototypes.
+
+#### MSIG, 2017
+*Account Manager*
+
+* Site visit customers' facilities, make quotation and negotiation.
+* Conduct training for bank partners about company's insurance products.
+* Mentor team members on how to make quotation and deal with stakeholders.
+
+#### VIB | Chailease | HSBC, 2011
+*Banker*  
+
+* Develop business by engaging with new coporate and individual customers.
+* Handle enquiries and negotiate term and pricing to win deals.
+* Analysis customer financial statements and cashflow.
 
 ---
 # Skills
 
-**Industry Knowledge**
-
-- Financial Analysis
-- Data Analysis
-- Banking
-- Risk Management
-
-**Tools & Technologies**
-
-* Javascript (ES6) [Express, React]
-* Python
-* Golang
-
-* Git
-* Docker
-* Jira
-* Tableau
-
-* EFK Stack
-* MySQL
-* MongoDB
-
-**Interpersonal Skills**
-
-* Problem sovling
-* Negotiation
-* Management
-* Team work
-
+Technical skill |     
+----     | ----
+Programming | Python, NodeJs, Golang
+Markup | HTML5, CSS, JavaScript
+Database | MySQL, MongoDB
+Version Control | Git, Github, Gitlab
+Applications | Visual Studio Code, Jira, Docker, Kubernetes
+DevOps | Jenkins, Ansible
+OS/Environments | Linux, Ubuntu
+ | 
+**Industry Knowledge** | Financial Analysis, Data Analysis, Banking, Risk Management
+ | 
+**Interpersonal Skill** | Problem sovling, Negotiation, Management, Team work
 
 ---
 # Education
 
-#### PyFML
+#### PyFML, 2017
+*Python Programming*
 
-Python Programming    
-*2018*
+#### Self-learning, 2015
+*MOOCS on Coursera*
 
-#### ESCP Europe
+#### Master, CFVG, 2012
+*Economics of Banking and Finance (MEBF)*
 
-Master’s Degree, Economics of Banking and Finance, 14.95 / 20  
-*2012 - 2014*
-
-#### National Economics University
-
-Bachelor of Business Administration, 7.61 / 10  
-*2005 - 2009*
+#### Bachelor, National Economics University, 2005
+*Business Administration*
 
 ---
 # Hobbies 
-##  :bicyclist: :soccer: :book: :sushi: :apple: :+1: :tada:
+* Ride bicycle
+* Read books
+* Learn by doing
+* Watch football
+* Japanese foods
 
 ---
 # Reference
-
-> Stay hungry, stay foolish
->
-> &mdash; <cite>Steve Jobs</cite>
-
-<!-- [kbtg-logo]: https://media.licdn.com/dms/image/C560BAQF-oO7lNMmSNQ/company-logo_400_400/0?e=1574294400&v=beta&t=9M4N2eIgY3vjdB6_MSCwxUFwqisujAVrpAaDuHLjSuk -->
