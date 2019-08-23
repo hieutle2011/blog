@@ -9,7 +9,7 @@ tags: ["archive", "command", "linux"]
 draft: false
 ---
 
-There are many types of compress file, with each type we should have different command to interact with it. First, we find which type of file we are working with by using `file` command.
+There are many types of compress file, with each type we should have different command to interact with it. To find which archive type we are working with, use `file` command.
 
 ```shell
 $ file a.zip
@@ -24,19 +24,19 @@ c.tar.gz: gzip compressed data, last modified: Tue Aug 20 04:33:47 2019, from Un
 
 Here are some most common types i've been working with recently.
 
-## Zip archive data
+### Zip
 
 ```shell
 # Compress
-$ zip a.zip file1 file2 file3
+$ zip a.zip file1 file2 file3 # from individual files
 
-$ zip -r a.zip dir_name
+$ zip -r a.zip dir_name       # from a folder, -r = recursive
 
 # Decompress
-unzip -d directory a.zip
+$ unzip -d directory a.zip
 ```
 
-## Tar archive data
+### Tar
 
 ```shell
 # Compress
@@ -46,7 +46,7 @@ $ tar cvf b.tar file1 file2
 $ tar xvf b.tar
 ```
 
-## Tar.gz archive data
+### Tar.gz
 
 ```shell
 # Compress
@@ -56,14 +56,16 @@ $ tar czvf c.tar.gz file1 file2
 $ tar xzvf c.tar.gz
 ```
 
-### Note
+## Note
 
 - **c**  compress `|` **x**  extract
 - **f**  file
 - **z**  gz
-- **v**  verbose (optional for debug purpose)
+- **v**  verbose (optional for debugging)
 
-### Reference
-[familug][1]
+- You can compress without declaring the extension **.zip**, **.tar**, or **.tar.gz**. The former will automatically put .zip into a new file, however it's not true for the laters. When in doubt of archive file type, use command `file`.
+
+## Reference
+- [familug][1]
 
 [1]: https://www.familug.org/2012/09/nen-giai-nen-bang-command-line-trong.html

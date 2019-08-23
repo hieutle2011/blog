@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 enableEmoji = true
 
 [Params]
-  homeTitle = "Wonderful Corner" # Set a different text for the header on the home page
+  homeTitle = "A little Corner" # Set a different text for the header on the home page
   subtitle = "Notes of my everyday life and work"
   logo = "images/IMG_1704.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -53,7 +53,7 @@ enableEmoji = true
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "/post"
     weight = 1
 
 [[menu.main]]
@@ -64,32 +64,9 @@ enableEmoji = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Projects"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+    weight = 30
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 100
