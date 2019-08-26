@@ -14,10 +14,18 @@ hieuletrung102@gmail.com
 
 Love to work with the cutting edge, excited to learn, a creative problem solver, resourceful in getting things done and productive working independently or collaboratively.
 
+My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf]:
+
+1. [Learner][learner]
+2. [Input][input]
+3. [Connectedness][connectedness]
+4. [Responsibility][responsibility]
+5. [Maximizer][maximizer]
+
 ---
 # Working experience
 
-#### KBTG, Bangkok, Thailand, current
+#### [KBTG][kbtg], Bangkok, Thailand, current
 *Software Developer*  
 
 * Develop Node.js back-end powered by Express.js for client app.
@@ -28,14 +36,14 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 * Work in project on blockchain product in banking industry.
 * Apply best practices (e.g. unit testing, test automation, continuous integration, etc.).
 
-#### TMA, Vietnam, 2018
+#### [TMA][tma], Vietnam, 2018
 *Software Developer*  
 
 * Research on blockchain network (Hyperledger Fabric) and its application.
 * Build used case demos and prototypes.
 * Collaborate to conduct internal training session about blockchain fundamental for other members. 
 
-#### MSIG, Vietnam, 2017
+#### [MSIG][msig], Vietnam, 2017
 *Account Manager*
 
 * Build new automated template for quotation which reduces manual editing time significantly.
@@ -43,7 +51,7 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 * Site visit customers' facilities, analyze potential risks and make quotation and negotiation.
 * Conduct training for bank partners about company's insurance products.
 
-#### VIB | Chailease | HSBC, Vietnam, 2011
+#### [VIB][vib] | [Chailease][cilc] | [HSBC][hsbc], Vietnam, 2011
 *Corporate & Personal Banker*  
 
 * Develop business by engaging with new coporate and individual customers.
@@ -106,3 +114,15 @@ Concept | Unit testing, TDD, Cloud Computing, Scrum, Agile
 [neu]: https://en.neu.edu.vn/
 [cert]: /post/online-cert/
 [hvn]: https://www.linkedin.com/in/hvnsweeting/
+[clifton-strengths-top-5.pdf]: https://github.com/hieutle2011/blog/files/3540492/clifton-strengths-top-5.pdf
+[input]: https://www.gallupstrengthscenter.com/cms/en-us/gmj/688/input
+[learner]: https://www.gallupstrengthscenter.com/cms/en-us/gmj/694/learner
+[responsibility]: https://www.gallupstrengthscenter.com/cms/en-us/gmj/706/responsibility
+[maximizer]: https://www.gallupstrengthscenter.com/cms/en-us/gmj/697/maximizer
+[connectedness]: https://www.gallupstrengthscenter.com/cms/en-us/gmj/649/connectedness
+[kbtg]: http://www.kbtg.tech/en
+[tma]: https://www.tmasolutions.com/
+[msig]: https://www.msig.com.vn/
+[vib]: https://www.vib.com.vn/wps/portal/en/ca-nhan
+[cilc]: http://www.chailease.com.vn/en/
+[hsbc]: https://www.hsbc.com.vn/en-vn/
