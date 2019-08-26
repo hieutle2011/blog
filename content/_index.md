@@ -1,17 +1,18 @@
 <!-- ---
 title: Home Page
-subtitle: Why you'd want to go on a date with me
 comments: false
 meta: "false" #Do not display tags or categories
 --- -->
 
-Hello, welcome to my page! 
+Hello, I'm Hieu Le.
 
-My name is Hieu and i decided to start writing down my stuff from August 2019.
+Welcome to my blog and personal site!
+
+This page is mainly a way for me to record ALL the things and stuff that i learn and work at. Because i learn and read everyday, this would help me keep track of everything i have done. Most of the post is about computer and technology topic.
 
 I am enthusiastic about the new blog, let's come on board and enjoy with me. 
 
-Hope you love one of my favorite quotes:
+Here is one of my favorite quotes:
 
 > [Stay hungry, stay foolish][1]
 >

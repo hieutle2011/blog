@@ -1,9 +1,9 @@
 ---
-title: "Online Courses"
+title: "My Online Courses"
 type: ""
 date: 2019-08-21T08:20:40+07:00
 subtitle: "Collection of my self-study things"
-tags: ["certificate", "study", "course", "wip"]
+tags: ["certificate", "learn", "course", "wip"]
 ---
 
 ### 2019

@@ -53,8 +53,13 @@ These commands will be helpful to me and here is the quick reference.
 * **a** Insert after cursor
 * Append with **A**
 
-##### Replace until the end of word
-* **ce** you enter --Insert-- mode
+##### Replace
+* **rx** get to Insert Mode and replace one character *x*
+* **R** get to Insert Mode and replace more than one character
+* **:s/old/new/g** to **s**ubstitue *old* for *new*
+
+##### Replace until
+* **ce** change to the end of word
 * **c$** change to the end of line
 
 ##### Open command
@@ -89,11 +94,6 @@ Note that we have 2 parts operator and motion (eg: d and w). By using count, we 
 
 ### Put or Paste
 * **p** paste the copy/cut line
-
-### Replace
-* **rx** get to Insert Mode and replace one character *x*
-* **R** get to Insert Mode and replace more than one character
-* **:s/old/new/g** to **s**ubstitue *old* for *new*
 
 ### Execute external command
 * **:!** follow by command. Eg: **:!ls** to list your directory

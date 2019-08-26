@@ -20,20 +20,20 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 #### KBTG, Bangkok, Thailand, current
 *Software Developer*  
 
-* Develop NodeJs back-end for client app.
-* Develop front-end web for operational management with ReactJs.
-* Implement EFK stack running in docker to monitor api performance.
-* Build pipeline and Ansible playbook to deploy on Jenkins server.
-* Develop a reuseable internal library for Behaviour-Driven Development using Cucumber and Gherkin language.
+* Develop Node.js back-end powered by Express.js for client app.
+* Develop front-end web for operational management with React.js.
+* Implement EFK stack to monitor api performance, by using Elastisearch to store logs which were piped by Fluentd aggregator and then visualized by Kibana.
+* Build Jenkins pipeline and Ansible playbook to deploy on server.
+* Develop a reuseable internal library using Cucumber and Gherkin language as Behaviour-Driven Development concept.
 * Work in project on blockchain product in banking industry.
 * Apply best practices (e.g. unit testing, test automation, continuous integration, etc.).
 
 #### TMA, Vietnam, 2018
 *Software Developer*  
 
-* Research on blockchain network (Hyperledger) and its application.
+* Research on blockchain network (Hyperledger Fabric) and its application.
 * Build used case demos and prototypes.
-* Collaborate to conduct internal training session about blockchain fundermental for other members. 
+* Collaborate to conduct internal training session about blockchain fundamental for other members. 
 
 #### MSIG, Vietnam, 2017
 *Account Manager*
@@ -49,6 +49,7 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 * Develop business by engaging with new coporate and individual customers.
 * Handle enquiries and negotiate term and pricing to win deals.
 * Analysis customer financial statements and cashflow.
+* Provide 
 
 ---
 # Skills
@@ -56,13 +57,13 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 Technical skill |     
 ----     | ----
 Programming | Python, NodeJs, Golang
-Markup | HTML5, CSS, JavaScript
-Database | MySQL, MongoDB, GraphQL
+Markup | HTML5, CSS, JavaScript (ES6)
+Database | MySQL, MongoDB, Redis, GraphQL
 Collabolation tools | Git, Slack
 Applications | VSCode, Vim, Jira, Docker, Kubernetes
 DevOps | Jenkins, Ansible
-OS/Environments | Linux, Ubuntu, MacOS
-Concept | TDD, Cloud Computing, Scrum, Agile
+OS/Environments | Linux, Ubuntu, macOS
+Concept | Unit testing, TDD, Cloud Computing, Scrum, Agile
  | 
 **Industry Knowledge** | Financial Analysis, Data Analysis, Banking, Risk Management
  | 
@@ -96,11 +97,12 @@ Concept | TDD, Cloud Computing, Scrum, Agile
 
 ---
 # Reference
-* [Hung Viet Nguyen][hvn], teacher @ [PyFML][pyme]
+* [Hung Viet Nguyen][hvn], Senior DevOps, CTO/Founder @ [PyFML][pyme]
 
 
 [mebf]: https://www.cfvg.org/programs-list/mebf/
-[pyme]: https://gitlab.com/pyfml/prepare
+[pyme1]: https://gitlab.com/pyfml/prepare
+[pyme]: https://pymi.vn/
 [neu]: https://en.neu.edu.vn/
 [cert]: /post/online-cert/
 [hvn]: https://www.linkedin.com/in/hvnsweeting/
