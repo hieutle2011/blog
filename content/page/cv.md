@@ -1,31 +1,22 @@
 ---
-title: "Curriculum Vitae"
+title: "Hieu Trung Le"
 type: ""
 date: 2019-08-20T13:28:10+07:00
-# subtitle: "My latest Curriculum Vitae"
+subtitle: "Software Developer"
 ---
-# Hieu Trung Le
-*Software Developer*  
 **KBTG, Thailand**  
-P: +66910107582 (Thailand)  
-P: +84982051922 (Vietnam)  
-hieuletrung102@gmail.com
+:phone: +66910107582 (Thailand)  
+:phone: +84982051922 (Vietnam)  
+:email: hieuletrung102@gmail.com
 
+Love to work with the cutting edge, excited to learn, a creative problem solver, resourceful in getting things done and productive working independently or collaboratively. My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf] are Learner, Input, Connectedness, Responsibility, Maximizer.
 
-Love to work with the cutting edge, excited to learn, a creative problem solver, resourceful in getting things done and productive working independently or collaboratively.
-
-My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf]:
-
-1. [Learner][learner]
-2. [Input][input]
-3. [Connectedness][connectedness]
-4. [Responsibility][responsibility]
-5. [Maximizer][maximizer]
+<!-- <img src="https://user-images.githubusercontent.com/30904297/63685081-abea0b00-c828-11e9-8c35-93a308306e5f.png" width="20" height="20" align="left"/> -->
 
 ---
 # Working experience
 
-#### [KBTG][kbtg], Bangkok, Thailand, current
+#### [KBTG][kbtg], Bangkok, Thailand, 10.2018 - current
 *Software Developer*  
 
 * Develop Node.js back-end powered by Express.js for client app.
@@ -36,14 +27,14 @@ My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf]:
 * Work in project on blockchain product in banking industry.
 * Apply best practices (e.g. unit testing, test automation, continuous integration, etc.).
 
-#### [TMA][tma], Vietnam, 2018
+#### [TMA][tma], Vietnam, 4.2018 - 10.2018
 *Software Developer*  
 
 * Research on blockchain network (Hyperledger Fabric) and its application.
 * Build used case demos and prototypes.
 * Collaborate to conduct internal training session about blockchain fundamental for other members. 
 
-#### [MSIG][msig], Vietnam, 2017
+#### [MSIG][msig], Vietnam, 3.2017 - 4.2018
 *Account Manager*
 
 * Build new automated template for quotation which reduces manual editing time significantly.
@@ -57,27 +48,25 @@ My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf]:
 * Develop business by engaging with new coporate and individual customers.
 * Handle enquiries and negotiate term and pricing to win deals.
 * Analysis customer financial statements and cashflow.
-* Provide 
 
 ---
-# Skills
+# Technology Applications and Expertise
 
-Technical skill |     
-----     | ----
-Programming | Python, NodeJs, Golang
-Markup | HTML5, CSS, JavaScript (ES6)
-Database | MySQL, MongoDB, Redis, GraphQL
-Collabolation tools | Git, Slack
-Applications | VSCode, Vim, Jira, Docker, Kubernetes
-DevOps | Jenkins, Ansible
-OS/Environments | Linux, Ubuntu, macOS
-Concept | Unit testing, TDD, Cloud Computing, Scrum, Agile
- | 
-**Industry Knowledge** | Financial Analysis, Data Analysis, Banking, Risk Management
- | 
-**Interpersonal Skill** | Problem solving, Negotiation, Management, Team work
- |
-**Communication** | Read, write and speak English fluently 
+**Programming:** Python, NodeJs, Golang  
+**Markup:** HTML5, CSS, JavaScript (ES6)  
+**Database:** MySQL, MongoDB, Redis, GraphQL  
+**Collabolation tools:** Git, Slack  
+**Applications:** VSCode, Vim, Jira, Docker, Kubernetes  
+**DevOps:** Jenkins, Ansible  
+**OS/Environments:** Linux, Ubuntu, macOS  
+**Concept:** Unit testing, TDD, Cloud Computing, Scrum, Agile  
+
+---
+# Other Skills
+
+**Industry Knowledge:** Financial Analysis, Data Analysis, Banking, Risk Management  
+**Interpersonal Skill:** Problem solving, Negotiation, Management, Team work  
+**Communication:** Read, write and speak English fluently  
 
 ---
 # Education
@@ -86,12 +75,12 @@ Concept | Unit testing, TDD, Cloud Computing, Scrum, Agile
 *Python Programming*
 
 #### [Self-learning][cert], 2016
-*MOOCS on Coursera*
+*MOOCS online*
 
-#### Master, [CFVG][mebf], 2012
+#### Master, [CFVG][mebf], 2012 - 2014
 *Economics of Banking and Finance (MEBF)*
 
-#### Bachelor, [NEU][neu], 2005
+#### Bachelor, [NEU][neu], 2005 - 2009
 *Business Administration*
 
 ---
@@ -126,3 +115,4 @@ Concept | Unit testing, TDD, Cloud Computing, Scrum, Agile
 [vib]: https://www.vib.com.vn/wps/portal/en/ca-nhan
 [cilc]: http://www.chailease.com.vn/en/
 [hsbc]: https://www.hsbc.com.vn/en-vn/
+[kbtg-logo]: https://user-images.githubusercontent.com/30904297/63685081-abea0b00-c828-11e9-8c35-93a308306e5f.png

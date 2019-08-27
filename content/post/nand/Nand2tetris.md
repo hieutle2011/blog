@@ -1,5 +1,5 @@
 ---
-title: "Nand2tetris"
+title: "Nand2tetris Intro"
 author: ""
 type: ""
 date: 2019-08-25T21:50:13+07:00
