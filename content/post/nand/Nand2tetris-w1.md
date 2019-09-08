@@ -8,7 +8,11 @@ image: ""
 tags: ["learn", "course", "nand", "logic","gate"]
 ---
 
-What i have learnt in this week.
+> Background
+>
+> A typical computer architecture is based on a set of elementary logic gates like And, Or, Mux, etc., as well as their bit-wise versions And16, Or16, Mux16, etc. (assuming a 16-bit machine). This project engages you in the construction of a typical set of basic logic gates. These gates form the elementary building blocks from which more complex chips will be later constructed.
+
+Here is what i have learnt in this week.
 
 ### 1.Boolean laws
 

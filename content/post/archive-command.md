@@ -36,6 +36,13 @@ $ zip -r a.zip dir_name       # from a folder, -r = recursive
 $ unzip -d directory a.zip
 ```
 
+*-j* | *--junk-paths* => Store just the name of a saved file (junk the path), and do not store directory names. By default, zip will store the full path (relative to the current directory).
+
+```shell
+# Generate source.zip file which contains all hdl files in this folder and its sub-folder
+$ find . -name "*.hdl" | zip -j source -@
+```
+
 ### Tar
 
 ```shell
