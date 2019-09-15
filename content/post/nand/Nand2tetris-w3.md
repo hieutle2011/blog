@@ -23,7 +23,7 @@ Notice the small triangular icon inside the DFF, this represents the memory effe
 
 ![seq-chip](/images/sequential-chip.png)
 
-With this concept in my, i could write files for 1-bit register, multi-bit register, RAM8, RAM64, RAM512, RAM4K and RAM16K with little effort.
+With this concept in mind, i could write files for 1-bit register, multi-bit register, RAM8, RAM64, RAM512, RAM4K and RAM16K with little effort.
 
 ![RAM](/images/RAM.png)
 
