@@ -51,11 +51,11 @@ One of the best thing i enjoyed is how the computer interacts with input and out
 
 For example, the monitor is continuously refreshed from a memory map dedicated for output display. To control what to appear on the screen, we write programs to manipulate this screen memory map. 
 
-The keyboard is an example for input device, which is a one 16-bit location in memory maniuplated by which key is pressed on the keyboard. A scan code of 75 appears in keyboard memory map if the `k` is pressed.
+The keyboard is an example for input device, which is a one 16-bit location in memory maniuplated by which key is pressed on the keyboard. A scan code of `75` appears in keyboard memory map if the `k` is pressed.
 
 ### Hack Programming
 
-Important things to finsih the project:
+Important things to finish the project:
 
 - Register and memory
 
