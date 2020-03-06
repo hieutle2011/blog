@@ -21,7 +21,7 @@ enableEmoji = true
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   wordCount = true
@@ -48,7 +48,7 @@ enableEmoji = true
   website = "hieutle2011.github.io"
   email = "hieuletrung102@gmail.com"
   github = "hieutle2011"
-  twitter = "username"
+  twitter = "manmoveon"
   linkedin = "hieutle2011"
 
 [[menu.main]]

@@ -1,23 +1,24 @@
 ---
-title: "Hieu Trung Le"
-type: ""
-date: 2019-08-20T13:28:10+07:00
-subtitle: "Software Developer"
+title: Hieu Trung Le
+subtitle: Software Developer
 ---
-**KBTG, Thailand**  
-:phone: +66910107582 (Thailand)  
-:phone: +84982051922 (Vietnam)  
-:email: hieuletrung102@gmail.com
 
-Love to work with the cutting edge, excited to learn, a creative problem solver, resourceful in getting things done and productive working independently or collaboratively. My top 5 talents from CliftonStrengths [result][clifton-strengths-top-5.pdf] are Learner, Input, Connectedness, Responsibility, Maximizer.
+Love to work with the cutting edge, excited to learn, a creative problem solver and self-taught developer, resourceful in getting things done and productive working independently or collaboratively.
 
-<!-- <img src="https://user-images.githubusercontent.com/30904297/63685081-abea0b00-c828-11e9-8c35-93a308306e5f.png" width="20" height="20" align="left"/> -->
+___
+## Working experience
 
----
-# Working experience
-
-#### [KBTG][kbtg], Bangkok, Thailand, 10.2018 - current
+#### [TMA][tma], Vietnam, 10.2019 - current
 *Software Developer*  
+
+* Work within a cross functional team of Business Analysts, Product Owners and technical lead to understand requirements that drive the design and implementation of technical solutions.
+* Implement enteprise modules in micro-service architecture.
+* Using Posgres with Sequelize as ORM.
+* Build webhook module to automatically run after a predifined interval.
+* Build back-end modules in Express.js.
+
+#### [KBTG][kbtg], Bangkok, Thailand, 10.2018 - 10.2019
+*Software Developer*
 
 * Develop Node.js back-end powered by Express.js for client app.
 * Develop front-end web for operational management with React.js.
@@ -49,52 +50,54 @@ Love to work with the cutting edge, excited to learn, a creative problem solver,
 * Handle enquiries and negotiate term and pricing to win deals.
 * Analysis customer financial statements and cashflow.
 
----
-# Technology Applications and Expertise
+___
+## Technology Applications and Expertise
 
-**Programming:** Python, NodeJs, Golang  
-**Markup:** HTML5, CSS, JavaScript (ES6)  
-**Database:** MySQL, MongoDB, Redis, GraphQL  
-**Collabolation tools:** Git, Slack  
-**Applications:** VSCode, Vim, Jira, Docker, Kubernetes  
-**DevOps:** Jenkins, Ansible  
-**OS/Environments:** Linux, Ubuntu, macOS  
-**Concept:** Unit testing, TDD, Cloud Computing, Scrum, Agile  
+* **Programming:** Python, JavaScript (ES6), Golang, Typescript  
 
----
-# Other Skills
+* **Markup:** HTML5, CSS  
 
-**Industry Knowledge:** Financial Analysis, Data Analysis, Banking, Risk Management  
-**Interpersonal Skill:** Problem solving, Negotiation, Management, Team work  
-**Communication:** Read, write and speak English fluently  
+* **Database:** MySQL, MongoDB, Redis, GraphQL, PostgreSQL  
 
----
-# Education
+* **Collabolation tools:** Git, Slack  
 
-#### [PyFML][pyme], 2017
-*Python Programming*
+* **Applications:** VSCode, Vim, Jira, Docker, Kubernetes  
 
-#### [Self-learning][cert], 2016
-*MOOCS online*
+* **DevOps:** Jenkins, Ansible  
 
-#### Master, [CFVG][mebf], 2012 - 2014
-*Economics of Banking and Finance (MEBF)*
+* **OS/Environments:** Linux, Ubuntu, macOS  
 
-#### Bachelor, [NEU][neu], 2005 - 2009
-*Business Administration*
+* **Concept:** Unit test, TDD, Cloud Computing, Scrum, Agile  
 
----
-# Hobbies 
-* Ride bicycle
-* Ping pong
-* Read books
+___
+## Other Skills
+
+* **Industry Knowledge:** Financial Analysis, Data Analysis, Banking, Risk Management  
+
+* **Interpersonal Skill:** Problem solving, Negotiation, Management, Team work  
+
+* **Communication:** Read, write and speak English fluently  
+
+___
+## Education
+
+* **[PyFML][pyme]**, 2017, *Python Programming*
+
+* **[Self-taught][cert]**, 2016, *MOOCS online*
+
+* **Master, [CFVG][mebf]**, 2012 - 2014, *Economics of Banking and Finance (MEBF)*
+
+* **Bachelor, [NEU][neu]**, 2005 - 2009, *Business Administration*
+
+___
+## Hobbies
+* Outdoor activities
+* Tech books
 * Learn by doing
-* Watch football
-* Japanese foods
 
----
-# Reference
-* [Hung Viet Nguyen][hvn], Senior DevOps, CTO/Founder @ [PyFML][pyme]
+___
+## Reference
+* [Hung Viet Nguyen][hvn], Senior DevOps @Grab, CTO/Founder @ [PyFML][pyme]
 
 
 [mebf]: https://www.cfvg.org/programs-list/mebf/
