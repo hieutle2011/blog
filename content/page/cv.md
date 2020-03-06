@@ -12,9 +12,9 @@ ___
 *Software Developer*  
 
 * Work within a cross functional team of Business Analysts, Product Owners and technical lead to understand requirements that drive the design and implementation of technical solutions.
-* Implement enteprise modules in micro-service architecture.
-* Using Posgres with Sequelize as ORM.
-* Build webhook module to automatically run after a predifined interval.
+* Implement enterprise modules in micro-service architecture.
+* Use Postgres with Sequelize as ORM.
+* Build webhook module to automatically run after a predefined interval.
 * Build back-end modules in Express.js.
 
 #### [KBTG][kbtg], Bangkok, Thailand, 10.2018 - 10.2019
