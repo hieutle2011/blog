@@ -33,13 +33,13 @@ zsh ./deploy.sh
 - Install [pandoc][pandoc] and TeX Live. Generate html
 
 ```
-pandoc cv.md -f markdown -t html -s -o cv.html
+pandoc content/page/cv.md -f markdown -t html -s -o cv.html
 ```
 
 - If we want PDF file ([TeX Live][texlive] need to be installed)
 
 ```
-pandoc cv.md -s -o cv.pdf
+pandoc content/page/cv.md -s -o cv-hieutrungle.pdf
 ```
 
 [hugo]:https://github.com/gohugoio/hugo/releases
@@ -47,4 +47,4 @@ pandoc cv.md -s -o cv.pdf
 [sub]:https://stackoverflow.com/questions/12898278/issue-with-adding-common-code-as-git-submodule-already-exists-in-the-index#12902857
 [export]:https://discourse.gohugo.io/t/export-a-resume-as-a-pdf/4138/1
 [pandoc]:https://pandoc.org/getting-started.html
-[texlive]:https://tug.org/mactex/
+[texlive]:https://www.tug.org/texlive/debian.html
