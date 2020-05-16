@@ -53,7 +53,7 @@ ___
 ___
 ## Technology Applications and Expertise
 
-* **Programming:** Python, JavaScript (ES6), Golang, Typescript  
+* **Programming:** JavaScript (fluent), Golang, Typescript, Python (prior experience)
 
 * **Markup:** HTML5, CSS  
 
@@ -99,6 +99,10 @@ ___
 ## Reference
 * [Hung Viet Nguyen][hvn], Senior DevOps @Grab, CTO/Founder @ [PyFML][pyme]
 
+___
+## Contact
+* Email: hieuletrung102@gmail.com
+* Mobile: +84 0982 051 922
 
 [mebf]: https://www.cfvg.org/programs-list/mebf/
 [pyme1]: https://gitlab.com/pyfml/prepare
