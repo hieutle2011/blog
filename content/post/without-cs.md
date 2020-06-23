@@ -6,7 +6,7 @@ date: 2020-06-22T21:36:01+07:00
 subtitle: "Learn on my own"
 image: ""
 tags: [course, CS, book, twitter, self-taught, learn, resource]
-draft: true
+draft: false
 ---
 
 > I don’t have a CS degree so I've had to learn on my own. (@RandallKanna)
@@ -69,7 +69,7 @@ This is the title of a twitter thread which is true for me. I found this thread 
 
 > Need a statistics class? Want to take a free one from Harvard?
 
-[Stats][Stats]
+[Statistics][Stats]
 
 ---
 

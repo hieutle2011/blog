@@ -6,8 +6,11 @@ subtitle: "Collection of my self-study things"
 tags: ["certificate", "learn", "course", "wip"]
 ---
 
+### 2020
+- [Accelerated Computer Science Fundamentals][csacc], University of Illinois at Urbana-Champaign, June 2020. 
+
 ### 2019
-- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)][nand], Hebrew University of Jerusalem, Current. 
+- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)][nand], Hebrew University of Jerusalem. 
 - [Programming with Google Go Specialization][go1], UCI, July 2019
 - [Structure and Interpretation of Computer Programs][mit], MIT, Summer 2019
 
@@ -43,3 +46,4 @@ tags: ["certificate", "learn", "course", "wip"]
 [go1]: https://www.coursera.org/specializations/google-golang
 [learn]: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
 [nand]: https://www.coursera.org/learn/build-a-computer/home/welcome
+[csacc]: https://coursera.org/share/0911939fabd6c8ae5fe8055e866719ee
