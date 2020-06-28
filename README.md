@@ -48,3 +48,4 @@ pandoc content/page/cv.md -s -o cv-hieutrungle.pdf
 [export]:https://discourse.gohugo.io/t/export-a-resume-as-a-pdf/4138/1
 [pandoc]:https://pandoc.org/getting-started.html
 [texlive]:https://www.tug.org/texlive/debian.html
+[latex]:https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/
