@@ -49,3 +49,4 @@ pandoc content/page/cv.md -s -o cv-hieutrungle.pdf
 [pandoc]:https://pandoc.org/getting-started.html
 [texlive]:https://www.tug.org/texlive/debian.html
 [latex]:https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/
+[gist]:http://blog.cronally.com/embed-gists-with-hugo/
