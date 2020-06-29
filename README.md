@@ -39,7 +39,7 @@ pandoc content/page/cv.md -f markdown -t html -s -o cv.html
 - If we want PDF file ([TeX Live][texlive] need to be installed)
 
 ```
-pandoc content/page/cv.md -s -o cv-hieutrungle.pdf
+pandoc content/page/cv.md -s -o pdf/cv-hieutrungle.pdf
 ```
 
 [hugo]:https://github.com/gohugoio/hugo/releases
