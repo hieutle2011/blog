@@ -1,6 +1,14 @@
 ---
 title: Hieu Trung Le
 subtitle: Software Developer
+linestretch: 1
+papersize: a4
+whitespace: small
+geometry:
+- top=15mm
+- left=20mm
+- right=15mm
+- bottom=20mm
 ---
 
 Love to work with the cutting edge, excited to learn, a creative problem solver and self-taught developer, resourceful in getting things done and productive working independently or collaboratively.
