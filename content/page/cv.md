@@ -22,17 +22,18 @@ ___
 * Work within a cross functional team of Business Analysts, Product Owners and technical lead to understand requirements that drive the design and implementation of technical solutions.
 * Implement enterprise modules in micro-service architecture.
 * Use Postgres with Sequelize as ORM.
-* Build cron module to automatically run jobs after a predefined interval.
+* Build automated modules to  run jobs in predefined schedule.
 * Build back-end modules in Express.js.
+* Optimize code for performance and debug memory leak issue.
 
 #### [KBTG][kbtg], Bangkok, Thailand, 10.2018 - 10.2019
 *Software Developer*
 
 * Develop Node.js back-end powered by Express.js for client app.
 * Develop front-end web for operational management with React.js.
-* Implement EFK stack to monitor api performance, by using Elastisearch to store logs which were piped by Fluentd aggregator and then visualized by Kibana.
+* Implement EFK stack to monitor api performance, by using Elasticsearch to store logs which were piped by Fluentd aggregator and then visualized by Kibana.
 * Build Jenkins pipeline and Ansible playbook to deploy on server.
-* Develop a reuseable internal library using Cucumber and Gherkin language as Behaviour-Driven Development concept.
+* Develop a reuseable internal library using Cucumber and Gherkin language as BDD concept.
 * Work in project on blockchain product in banking industry.
 * Apply best practices (e.g. unit testing, test automation, continuous integration, etc.).
 
@@ -105,7 +106,7 @@ ___
 
 ___
 ## Reference
-* [Hung Viet Nguyen][hvn], Senior DevOps @Grab, CTO/Founder @ [PyFML][pyme]
+* [Hung Viet Nguyen][hvn], Lead Engineer @Grab, CTO/Founder @ [PyFML][pyme]
 
 ___
 ## Contact
