@@ -1,6 +1,6 @@
 ---
 title: Hieu Trung Le
-subtitle: Software Developer
+subtitle: Backend Developer
 linestretch: 1
 papersize: a4
 whitespace: small
@@ -16,7 +16,17 @@ Love to work with the cutting edge, excited to learn, a creative problem solver 
 ___
 ## Working experience
 
-#### [TMA][tma], Vietnam, 10.2019 - current
+#### [LittleLives][littlelives], Vietnam, 08.2020 - current
+*Backend Developer*  
+
+* Design, write and test APIs and backend applications in Elixir and Nodejs
+* Build and develop new features and modify existing ones
+* Support mobile and front end team for any changes in requirement
+* Optimize code and SQL query to fasten response from APIs call
+* Collaborate closely with engineers across teams
+* Be an active member of an internationally experienced team 
+
+#### [TMA][tma], Vietnam, 10.2019 - 07.2020
 *Software Developer*  
 
 * Work within a cross functional team of Business Analysts, Product Owners and technical lead to understand requirements that drive the design and implementation of technical solutions.
@@ -38,11 +48,12 @@ ___
 * Apply best practices (e.g. unit testing, test automation, continuous integration, etc.).
 
 #### [TMA][tma], Vietnam, 4.2018 - 10.2018
-*Software Developer*  
+*Junior Software Developer*  
 
 * Research on blockchain network (Hyperledger Fabric) and its application.
 * Build used case demos and prototypes.
 * Collaborate to conduct internal training session about blockchain fundamental for other members. 
+* Transition to junior software developer and take chance to work in Thailand
 
 #### [MSIG][msig], Vietnam, 3.2017 - 4.2018
 *Account Manager*
@@ -62,7 +73,7 @@ ___
 ___
 ## Technology Applications and Expertise
 
-* **Programming:** JavaScript (fluent), Golang, Typescript, Python (prior experience)
+* **Programming:** Elixir, JavaScript (fluent), Golang, Typescript, Python (prior experience)
 
 * **Markup:** HTML5, CSS  
 
@@ -132,3 +143,4 @@ ___
 [cilc]: http://www.chailease.com.vn/en/
 [hsbc]: https://www.hsbc.com.vn/en-vn/
 [kbtg-logo]: https://user-images.githubusercontent.com/30904297/63685081-abea0b00-c828-11e9-8c35-93a308306e5f.png
+[littlelives]: https://www.littlelives.com/
