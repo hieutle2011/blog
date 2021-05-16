@@ -19,12 +19,13 @@ ___
 #### [LittleLives][littlelives], Vietnam, 08.2020 - current
 *Backend Developer*  
 
-* Design, write and test APIs and backend applications in Elixir and Nodejs
-* Build and develop new features and modify existing ones
+* Design, write and test APIs and backend applications in Elixir and Node.js
+* Build, develop new features and improve existing ones
 * Support mobile and front end team for any changes in requirement
 * Optimize code and SQL query to fasten response from APIs call
 * Collaborate closely with engineers across teams
 * Be an active member of an internationally experienced team 
+* Team's tech stack: Elixir, Node.js, Docker, Kubernetes, Sentry, PostgreSQL, Redis, MySQL, S3, NSQ
 
 #### [TMA][tma], Vietnam, 10.2019 - 07.2020
 *Software Developer*  
@@ -77,9 +78,9 @@ ___
 
 * **Markup:** HTML5, CSS  
 
-* **Database:** MySQL, MongoDB, Redis, GraphQL, PostgreSQL  
+* **Database:** MySQL, MongoDB, Redis, PostgreSQL  
 
-* **Collabolation tools:** Git, Slack  
+* **Collabolation tools:** Git, Slack, Clubhouse 
 
 * **Applications:** VSCode, Vim, Jira, Docker, Kubernetes  
 
